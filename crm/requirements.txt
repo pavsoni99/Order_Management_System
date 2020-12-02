@@ -1,0 +1,4 @@
+Django==3.0.6
+django-filter==2.3.0
+Jinja2==2.10.1
+sqlparse==0.3.0
